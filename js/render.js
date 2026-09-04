@@ -138,7 +138,7 @@ export function generateProductHTML(products, useGridLayout = false) {
       <div class="product-card ${useGridLayout ? 'grid-layout' : ''}">
         <div class="product-image-container">
           ${badgeHTML}
-          <img class="product-image" src="${product.image}" alt="${product.title}" />
+          <img class="product-image" src="${product.image}" alt="${product.title}" referrerpolicy="no-referrer" />
         </div>
         <div class="product-overlay">
           <div class="product-info">
