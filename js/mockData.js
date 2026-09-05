@@ -682,7 +682,7 @@ export const itemSpecificImages = {
   "MAT-65": "./images/Subtract.png",
   "MAT-66": "./images/Subtract.png",
   "MAT-67": "./images/steak.jpg",
-  "MAT-68": "./images/Subtract.png",
+  "MAT-68": "./images/biriyani.jpg",
   "MAT-69": "./images/mutton.jpg",
   "MAT-70": "./images/paneer butter.jpg",
   "MAT-71": "./images/grilled salmon.jpg",
